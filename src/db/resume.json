@@ -1,0 +1,55 @@
+{
+  "education": {
+    "institution": "Społeczna Akademia Nauk z siedzibą w Łodzi",
+    "degree": "Bachelors",
+    "program": "Computer science",
+    "duration": "Sep 2021 - Mar 2025"
+  },
+  "experiences": [
+    {
+      "position": "Software Engineer in freelance",
+      "location": "Remote",
+      "duration": "Apr 2024 - Jun 2024"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Java",
+      "Python (3.10+)",
+      "JavaScript",
+      "SQL"
+    ],
+    "libraries and frameworks": [
+      "Django MVC",
+      "Django Rest Framework (DRF)",
+      "FastAPI",
+      "Scrapy",
+      "BeautifulSoup",
+      "Websockets",
+      "Redis",
+      "Selery"
+    ],
+    "technologies": [
+      "Git",
+      "PostgreSQL",
+      "SQLite",
+      "Postman",
+      "JIRA",
+      "GitHub",
+      "EC2",
+      "Docker"
+    ],
+    "methodologies": [
+      "Debugging",
+      "REST APIs",
+      "Agile Scrum",
+      "Version control",
+      "Unit/pytest testing",
+      "Project management"
+    ],
+    "additional education": [
+      "Mate academy (2025)",
+      "500+ kata on Codewars"
+    ]
+  }
+}

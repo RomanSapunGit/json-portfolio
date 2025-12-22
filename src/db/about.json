@@ -1,0 +1,48 @@
+{
+  "about": {
+    "name": "Roman Sapun",
+    "position": "a recent graduate with Bachelor degree in hands",
+    "school": "Społeczna Akademia Nauk z siedzibą w Łodzi",
+    "status": "programming enthusiast",
+    "location": "Poland - Warsaw",
+    "interests": [
+      "reading",
+      "watching films, series, anime",
+      "playing games (co-op and single player)",
+      "Try new things (indoors and outdoors)",
+      "and working out"
+    ],
+    "achievements": [
+      "code coverage 90%+ for pet and freelance projects",
+      "500 kata on Codewars",
+      "proud of my 3rd place in team-oriented game"
+    ],
+    "languages": {
+      "Polish": {
+        "level": "Upper-intermediate"
+      },
+      "English": {
+        "level": "Upper-intermediate"
+      },
+      "Ukrainian": {
+        "level": "Native"
+      }
+    },
+    "email": "contact.roman.sapun@gmail.com",
+    "phone": "+48 792 652 738"
+  },
+  "links": {
+    "LinkedIn": {
+      "linkName": "/RomanSapunGit",
+      "linkUrl": "https://github.com/RomanSapunGit"
+    },
+    "GitHub": {
+      "linkName": "/roman-sapun-077183268",
+      "linkUrl": "https://www.linkedin.com/in/roman-sapun-077183268/"
+    },
+    "Telegram": {
+      "linkName": "/SapunRoman",
+      "linkUrl": "t.me/SapunRoman"
+    }
+  }
+}

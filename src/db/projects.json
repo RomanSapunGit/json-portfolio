@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Online Cinema",
+    "description": "Developed FastAPI-based online cinema platform that lets users browse movies, manage carts and orders, and pay via Stripe. Used JWT authentication, Celery, SendGrid, and PostgreSQL.",
+    "techStack": [
+      "Celery",
+      "FastAPI",
+      "PostgreSQL",
+      "SC2"
+    ],
+    "githubLink": "https://github.com/RomanSapunGit/online-cinema",
+    "appLink": "http://13.48.226.9"
+  },
+  {
+    "name": "Theatre Project",
+    "description": "Developed a DRF-based web app for managing plays, performances, and tickets with JWT auth and automated tests.",
+    "techStack": [
+      "DRF",
+      "SQLite",
+      "pytest"
+    ],
+    "githubLink": "https://github.com/RomanSapunGit/theatre-project "
+  },
+  {
+    "name": "Media Vault",
+    "description": "Django-based Web Application\nDeveloped an application for cataloging and managing films, books, and series. Implemented title management, genre and status filtering, item rating.\nGitHub source code:",
+    "techStack": [
+      "Django MVC",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ],
+    "githubLink": "https://github.com/RomanSapunGit/media-vault",
+    "appLink": "https://media-vault-lv9u.onrender.com/"
+  }
+]
