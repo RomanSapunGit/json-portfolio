@@ -22,6 +22,9 @@ export default makeStyles((theme: Theme) => ({
 
     title: {
         textDecoration: 'none',
+        display: 'inline-flex',
+        alignItems: 'center',
+        whiteSpace: 'nowrap',
 
         [theme.breakpoints.down('sm')]: {
             fontSize: '1.4rem',
@@ -45,26 +48,26 @@ export default makeStyles((theme: Theme) => ({
     },
 
     linkText: {
-    paddingLeft: theme.spacing(3),
-    paddingRight: theme.spacing(3),
-    borderRadius: theme.spacing(0.5),
-    transition: 'background-color 0.2s ease',
+        paddingLeft: theme.spacing(3),
+        paddingRight: theme.spacing(3),
+        borderRadius: theme.spacing(0.5),
+        transition: 'background-color 0.2s ease',
 
-    [theme.breakpoints.down('sm')]: {
-        fontSize: '1rem',
-        paddingLeft: theme.spacing(1),
-        paddingRight: theme.spacing(1),
-    },
+        [theme.breakpoints.down('sm')]: {
+            fontSize: '1rem',
+            paddingLeft: theme.spacing(1),
+            paddingRight: theme.spacing(1),
+        },
 
-    '&.selected': {
-        backgroundColor: 'rgba(0, 0, 0, 0.25)',
-        fontWeight: 600,
+        '&.selected': {
+            backgroundColor: 'rgba(0, 0, 0, 0.25)',
+            fontWeight: 600,
 
-        '&:hover': {
-            backgroundColor: 'rgba(0, 0, 0, 0.35)',
+            '&:hover': {
+                backgroundColor: 'rgba(0, 0, 0, 0.35)',
+            },
         },
     },
-},
 
     selected: {
         backgroundColor: 'rgba(0, 0, 0, 0.25)',   // darker fill

@@ -27,7 +27,7 @@ const NavBar: React.FC = () => {
                     >
                         {'{'}&nbsp;
                         <span className={jsonClasses.code}>
-              {about.name.replace(/\s+/g, '')}
+              {about.name.replace(/\s+/g, '')}, Python Developer
             </span>
                         &nbsp;
                         {'}'}
@@ -37,10 +37,10 @@ const NavBar: React.FC = () => {
                             <NavLink
                                 activeClassName={classes.selected}
                                 className={classes.navLink}
-                                to="/resume"
+                                to="/about"
                             >
                                 <Typography className={classes.linkText} variant="h6">
-                                    <span className={jsonClasses.code}>Resume</span>.json
+                                    <span className={jsonClasses.code}>About</span>.json
                                 </Typography>
                             </NavLink>
                         </Grid>

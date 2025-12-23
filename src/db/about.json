@@ -4,7 +4,6 @@
     "position": "a recent graduate with Bachelor degree in hands",
     "school": "Społeczna Akademia Nauk z siedzibą w Łodzi",
     "status": "programming enthusiast",
-    "location": "Poland - Warsaw",
     "interests": [
       "reading",
       "watching films, series, anime",
@@ -43,6 +42,12 @@
     "Telegram": {
       "linkName": "/SapunRoman",
       "linkUrl": "t.me/SapunRoman"
-    }
+    },
+    "Email": {
+      "linkName": "contact.roman.sapun@gmail.com",
+      "linkUrl": "contact.roman.sapun@gmail.com"
+    },
+    "Phone": "+48792652738",
+    "Location": "Poland - Warsaw"
   }
 }

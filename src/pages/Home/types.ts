@@ -1,13 +1,10 @@
 export interface About {
   name: string;
   position: string;
-  location: string;
   school: string;
   status: string;
   interests: string[];
   achievements: string[];
-  email: string;
-  phone: string;
   languages: Languages;
 }
 
@@ -20,6 +17,9 @@ export interface Links {
   LinkedIn: Link;
   GitHub: Link;
   Telegram: Link;
+  Email: Link;
+  Phone: string;
+  Location: string;
 }
 
 interface Language {
